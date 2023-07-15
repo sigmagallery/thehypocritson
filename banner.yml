@@ -1,15 +1,12 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
+title: SpacefudzNFT
+description: Collectible hand-job based on Cypherpunk & Ergo manifesto 💀🩸 $ERG $ADA $FUDZY
+image: https://gateway.ipfs.io/ipfs/bafybeicqgjkej3yq2kdnda33oafw37xkamlcby6p7yj5jxc35ns3zld4wu
 mintAddresses:
-  - 
+  - 9feYGaBxSWd7ngxSbD3C4pi4QPu7eWrDYgPJoaxKtULmrcqHnb6
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/SpacefudzNFT
     icon: fa-brands fa-twitter fa-fw
-  - label: Discord
-    url: https://discord.com/invite/
-    icon: fa-brands fa-discord fa-fw
-  - label: Website
-    url: 
-    icon: fa-solid fa-globe fa-fw
+  - label: Instagram
+    url: https://www.instagram.com/spacefudz/
+    icon: fa-brands fa-instagram fa-fw
